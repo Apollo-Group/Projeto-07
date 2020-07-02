@@ -1,6 +1,6 @@
 <img alt="Header" src="/assets/header.jpeg" />
 <h3 align="center">
-  Desafio 5: Construa uma API utilizando TDD.
+  Desafio 7: Crie um modelo de Machine Learning utilizando Regressāo Linear Simples
 </h3>
 
 <blockquote align="center">
